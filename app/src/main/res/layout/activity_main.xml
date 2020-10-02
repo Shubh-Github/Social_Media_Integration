@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img7"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Social Media Integration"
+        android:textSize="40sp"
+        android:textColor="#36c"
+        android:fontFamily="sans-serif-black"
+        android:layout_marginTop="285sp"
+        android:gravity="center"
+        android:layout_marginLeft="45dp"
+        />
+
+    <ImageView
+        android:layout_width="123dp"
+        android:layout_height="114dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="15dp"
+        android:paddingLeft="30dp"
+        android:src="@drawable/ic_launcher_foreground" />
+
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Social Media Integration</string>
+    <string name="facebook_app_id">363264491519705</string>
+    <string name="fb_login_protocol_scheme">fb363264491519705</string>
+    <string name="server_client_id">YOUR_SERVER_CLIENT_ID</string>
+    <string name="twitter_consumer_key">0JisSJ3QayLkfoD8SesQOrMye</string>
+    <string name="twitter_CONSUMER_SECRET">AFx2qVrGV3BigR0GChzQwqjtq7HA5TkZYwH6sYTNH4F3PnspRy</string>
+    <string name="get_profile_image">Fetch Profile Image</string>
+</resources>
